@@ -1,0 +1,32 @@
+.loginform{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.loginform_inputbox{
+    margin-top: 20px;
+}
+
+.loginform_inputbox input{
+    width: 600px;
+    height: 40px;
+    padding: 0 20px;
+    font-size: 18px;
+}
+
+.loginform_button{
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    background: rgb(10, 95, 251);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.loginform_error{
+    color: red;
+    margin-top: 5px;
+}

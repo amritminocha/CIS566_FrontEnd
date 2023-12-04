@@ -1,0 +1,11 @@
+.app-container{
+    padding-top: 65px;
+}
+
+.flex{
+    display: flex;
+}
+
+.column{
+    flex-direction: column;
+}

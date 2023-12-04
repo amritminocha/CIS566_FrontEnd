@@ -1,0 +1,144 @@
+.roomlist-container{
+    margin-top: 35px;
+}
+
+.roomlist-mainTitle{
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+.roomlist-lists{
+    clear: both;
+}
+
+.roomlist-type{
+    margin-top: 30px;
+}
+
+.roomlist-type-name{
+    text-transform:uppercase;
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.roomlist-rooms{
+    display: flex;
+    gap: 50px;
+    overflow: auto;
+    padding: 20px;
+}
+
+.roomlist-card{
+    width: 300px;
+    height: 500px;
+    position: relative;
+    border: 1px solid black;
+}
+
+.roomlist-card:hover{
+    box-shadow: 1px 1px 5px black;
+}
+
+.roomlist-card-container{
+    padding: 10px;
+}
+
+.roomlist-rooms-roomname{
+    font-size: 22px;
+}
+
+.roomlist-rooms-detail{
+    margin-top: 10px;
+    color: #a29a9a;
+}
+
+.amenities{
+    margin-top: 15px;
+    display: flex;
+    gap: 10px;
+}
+
+.amenities_data{
+    color: #a29a9a;
+    text-transform: uppercase;
+}
+
+.amenities_val::after{
+    content: ", ";
+}
+.amenities_val:last-child::after{
+    content: "";
+}
+
+.roomlist_price{
+    position: absolute;
+    bottom: 8px;
+    right: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.roomlist-book{
+    margin-top: 5px;
+    background: rgb(255, 217, 0);
+    display: inline-block;
+    align-self: flex-end;
+    padding: 5px 20px;
+    border: 1px solid rgb(233, 192, 42);
+    cursor: pointer;
+}
+
+.roomlist-filters{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.roomlist-noroom{
+    padding: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.roomList-filtertop{
+    float: right;
+    padding: 20px 40px;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+.roomlist-filtername{
+    font-size: 22px;
+}
+
+.roomlist-search{
+    align-self: flex-end;
+}
+
+.modalData{
+    padding: 10px;
+    position: relative;
+}
+
+.modalData_name{
+    margin-top: 20px;
+    display: flex;
+    gap: 30px;
+}
+
+.modal_book{
+    height: 38px;
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+}
+
+.modal_book:hover{
+    color: #5656f1;
+}
+
+.modalData_name_first{
+    width: 20%;
+}

@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "email": "amrit@gmail.com",
+            "password": "amrit@123",
+            "name": "Amrit",
+            "type":"user"
+        },
+        {
+            "email": "abc@gmail.com",
+            "password": "abc@123",
+            "name": "Amrit",
+            "type":"user"
+        },
+        {
+            "email": "admin@gmail.com",
+            "password": "admin@123",
+            "name": "Admin",
+            "type":"admin"
+        }
+    ]
+}

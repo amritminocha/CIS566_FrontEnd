@@ -1,0 +1,55 @@
+.updateRoom{
+    margin: 100px 300px;
+    padding: 50px;
+    padding-bottom: 80px;
+    box-shadow: 1px 1px 5px;
+    position: relative;
+}
+
+.updateRoom_wrongId{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+    color: red;
+}
+
+.updateRoom_input_container{
+    margin-top: 20px;
+}
+
+.updateRoom_title{
+    text-align: center;
+}
+
+.updateRoom_value{
+    width: 90%;
+    height: 35px;
+    margin-top: 10px;
+    padding: 0 10px;
+}
+
+.updateRoom_select{
+    width: 90%;
+    height: 35px;
+    margin-top: 10px;
+}
+
+.updateRoom_addButton{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    color: white;
+    background: rgb(245, 218, 21);
+    border: none;
+    font-size: 18px;
+    padding: 5px 20px;
+    border-radius: 2px;
+    cursor: pointer;
+    border: 1px solid rgb(245, 218, 21);
+}
+
+.updateRoom_addButton:hover{
+    background-color: white;
+    color: rgb(245, 218, 21);
+    font-weight: 600;
+}

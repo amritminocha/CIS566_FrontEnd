@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "roomId":"0ae23jkde4",
+            "name": "Amrit",
+            "email":"amrit@gmail.com",
+            "roomType":"deluxe",
+            "startDate":"1681669800000",
+            "endDate":"1681669800000",
+            "price":200,
+            "status":"accepted"
+        },
+        {
+            "id":"0ae23jkde4",
+            "name": "Amrit",
+            "email":"amrit@gmail.com",
+            "roomType":"deluxe",
+            "startDate":"1681669800000",
+            "endDate":"1681669800000",
+            "price":300,
+            "status":"rejected"
+        },
+        {
+            "id":"0ae23jkde4",
+            "name": "Amrit",
+            "email":"amrit@gmail.com",
+            "roomType":"deluxe",
+            "startDate":"1681669800000",
+            "endDate":"1681669800000",
+            "price":200,
+            "status":"accepted"
+        },
+        {
+            "id":"0ae23jkde4",
+            "name": "Amrit",
+            "email":"amrit@gmail.com",
+            "roomType":"deluxe",
+            "startDate":"1681669800000",
+            "endDate":"1681669800000",
+            "price":500,
+            "status":"rejected"
+        }
+    ]
+}

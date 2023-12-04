@@ -1,0 +1,52 @@
+.services{
+    padding-top: 20px;
+    background: #ebf5fb;
+    padding-bottom: 30px;
+}
+
+.services_title{
+    text-align: center;
+    font-size: 38px;
+    font-weight: 500;
+}
+
+.services_row{
+    padding: 10px 40px;
+    display: flex;
+    gap: 40px;
+    margin-top: 50px;
+}
+
+.services_card{
+    background-color: white;
+    padding: 30px;
+    width: 22%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0px 0px 3px;
+}
+
+.services_card p{
+    padding: 30px;
+}
+
+.services_card span{
+    color: #5656f1;
+    display: inline-block;
+    font-size: 80px;
+    margin-bottom: 1.5rem;
+    transition: 1s linear;
+    -webkit-transition: 1s linear;
+    -moz-transition: 1s linear;
+    -ms-transition: 1s linear;
+    -o-transition: 1s linear;
+}
+
+.services_card h2{
+    font-size: 22px;
+    font-weight: 1000;
+    letter-spacing: 3px;
+    text-transform: capitalize;
+}

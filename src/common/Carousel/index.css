@@ -1,0 +1,11 @@
+.carousel{
+    height: 94vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.carousel-item-img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}

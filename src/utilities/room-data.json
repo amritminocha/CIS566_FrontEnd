@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "type": "deluxe",
+            "list": [
+                {
+                    "id": "deluxe_1",
+                    "bookedDates": [1681669800000],
+                    "name": "Double Bed Suiteeee",
+                    "detail": "lorem ipsum is good to say that the room is very nicely decorated",
+                    "amenities": ["wifi", "fridge", "tv"],
+                    "price": 200
+                },
+                {
+                    "id": "deluxe_2",
+                    "bookedDates": [],
+                    "name": "Double Bed Suit",
+                    "detail": "lorem ipsum is good to say that the room is very nicely decorated",
+                    "amenities": ["wifi", "fridge", "tv"],
+                    "price": 200
+                },
+                {
+                    "id": "deluxe_2",
+                    "bookedDates": [],
+                    "name": "Double Bed Suit",
+                    "detail": "lorem ipsum is good to say that the room is very nicely decorated"
+                },
+                {
+                    "id": "deluxe_2",
+                    "bookedDates": [],
+                    "name": "Double Bed Suit",
+                    "detail": "lorem ipsum is good to say that the room is very nicely decorated"
+                },
+                {
+                    "id": "deluxe_2",
+                    "bookedDates": [],
+                    "name": "Double Bed Suit",
+                    "detail": "lorem ipsum is good to say that the room is very nicely decorated"
+                },
+                {
+                    "id": "deluxe_2",
+                    "bookedDates": [],
+                    "name": "Double Bed Suit",
+                    "detail": "lorem ipsum is good to say that the room is very nicely decorated"
+                },
+                {
+                    "id": "deluxe_2",
+                    "bookedDates": [],
+                    "name": "Double Bed Suit",
+                    "detail": "lorem ipsum is good to say that the room is very nicely decorated"
+                },
+                {
+                    "id": "deluxe_3",
+                    "bookedDates": [],
+                    "name": "Double Bed Suit",
+                    "detail": "lorem ipsum is good to say that the room is very nicely decorated"
+                }
+            ]
+        },
+        {
+            "type": "regular",
+            "list": [
+                {
+                    "id": "regular_1",
+                    "bookedDates": [],
+                    "name": "Double Bed",
+                    "detail": "lorem ipsum is good to say that the room is very nicely decorated"
+                },
+                {
+                    "id": "regular_2",
+                    "bookedDates": [],
+                    "name": "Double Bed",
+                    "detail": "lorem ipsum is good to say that the room is very nicely decorated"
+                },
+                {
+                    "id": "regular_3",
+                    "bookedDates": [],
+                    "name": "Double Bed Suit",
+                    "detail": "lorem ipsum is good to say that the room is very nicely decorated"
+                }
+            ]
+        }
+    ]
+}

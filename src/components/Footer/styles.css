@@ -1,0 +1,40 @@
+.footer{
+    margin-top: 30px;
+}
+
+.footer_row{
+    display: flex;
+    justify-content: space-around;
+}
+
+.col-lg-3, .col-md-6, .col-12{
+    width: 20%;
+}
+
+.footer_avalable{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer_right{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.footer_colored{
+    background-color: #343a40;
+    color: wheat;
+}
+
+.footer_connectIcons a{
+    font-size: 40px;
+    margin-right: 15px;
+}
+
+.footer_flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
